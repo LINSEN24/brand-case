@@ -1,0 +1,3 @@
+com\linsen\pojo\PageBean.class
+com\linsen\service\BrandService.class
+com\linsen\service\impl\BrandServiceImpl.class
